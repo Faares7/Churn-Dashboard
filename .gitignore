@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+.streamlit/
+
+preprocessed data/*.csv
+
+models/*.pkl
+
+Task.jpg
