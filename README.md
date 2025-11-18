@@ -54,7 +54,7 @@ All dependencies are listed in the requirements.txt file.
 
 1️⃣ Clone the repository
 
-        git clone <your-repo-url>  
+        git clone https://github.com/Faares7/Churn-Dashboard.git
         cd churn_dashboard  
 
 
